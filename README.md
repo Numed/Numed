@@ -12,7 +12,6 @@
 ## 📌Current technology stack 
 ![image](https://github.com/Numed/Numed/blob/main/img/html.png)
 ![image](https://github.com/Numed/Numed/blob/main/img/css.png)
-![image](https://github.com/Numed/Numed/blob/main/img/sass.png)
 ![image](https://github.com/Numed/Numed/blob/main/img/js.png)
 ![image](https://github.com/Numed/Numed/blob/main/img/TS.png)
 ![image](https://github.com/Numed/Numed/blob/main/img/react.png)
@@ -21,3 +20,4 @@
 ![image](https://github.com/Numed/Numed/blob/main/img/git.png)
 ![image](https://github.com/Numed/Numed/blob/main/img/figma.png)
 ![image](https://github.com/Numed/Numed/blob/main/img/GraphQL.png)
+![image](https://github.com/Numed/Numed/blob/main/img/sass.png)
