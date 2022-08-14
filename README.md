@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my sphere of developing, where you can see a lot of interesting projects 😉
+Welcome to my sphere of development, where you can see a lot of exciting projects 😉
 
 ## About me
 ✍🏻 Constantly self-improving person
