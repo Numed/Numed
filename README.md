@@ -1,6 +1,7 @@
 ### Hi there 👋
+Welcome to my sphere of developing, where you can see a lot of interesting projects 😉
 
-## About me 
+## About me
 ✍🏻 Constantly self-improving person
 
 🍃 Be patient for mistakes, they make you stronger
