@@ -22,7 +22,7 @@ Welcome to my sphere of development, where you can see a lot of exciting project
   <img align="left" src="https://github.com/Numed/Numed/blob/main/img/git.png" alt="Git" width="32px" style="margin-left: 30px;">
   <img align="left" src="https://github.com/Numed/Numed/blob/main/img/GraphQL.png" alt="GraphQL" width="32px" style="margin-left: 30px;">
   <img align="left" src="https://github.com/Numed/Numed/blob/main/img/figma.png" alt="Figma" width="32px" style="margin-left: 30px;">
-  <img align="left" src="https://github.com/Numed/Numed/blob/main/img/gulp.png" alt="Gulp.js" width="14px" style="margin-left: 30px;">
+  <img align="left" src="https://github.com/Numed/Numed/blob/main/img/gulp.png" alt="Gulp.js" width="13px" style="margin-left: 30px;">
 </div>
 
 
