@@ -1,10 +1,10 @@
 ## Hello there! 👋
-🔥 Welcome to my sphere of development, where you can see a lot of exciting projects 
+Welcome to my sphere of development, where you can see a lot of exciting projects 🔥
 
 ## About me
 ✍🏻 Constantly self-improving person
 
-🍃 Be patient for mistakes, they make you stronger
+🍃 Be patient with mistakes, they make you stronger
 
 ✨ Inspired by developing sites & web applications
 
