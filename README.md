@@ -21,7 +21,7 @@
 <img align="left" src="https://github.com/Numed/Numed/blob/main/img/react.png" title="React" alt="React" width="32px" style="margin-left: 30px;"> 
 <img align="left" src="https://github.com/Numed/Numed/blob/main/img/redux.png" title="Redux" alt="Redux" width="32px" style="margin-left: 30px;"> 
 <img align="left" src="https://github.com/Numed/Numed/blob/main/img/zustand.png" title="Zustand" alt="Zustand" width="54px" style="margin-left:30px;padding-right: 10px"> 
-<img align="left" src="https://github.com/Numed/Numed/blob/main/img/next-js.svg" title="Next JS" alt="Next-js" width="32px" style="margin-left: 30px;"> 
+<img align="left" src="https://github.com/Numed/Numed/blob/main/img/next-js.svg" title="NextJS" alt="Next-js" width="32px" style="margin-left: 30px;"> 
 <img align="left" src="https://github.com/Numed/Numed/blob/main/img/git.png" title="Git" alt="Git" width="32px" style="margin-left: 30px;"> 
 <img align="left" src="https://github.com/Numed/Numed/blob/main/img/GraphQL.png" title="GraphQL" alt="GraphQL" width="32px" style="margin-left: 30px;"> 
 <img align="left" src="https://github.com/Numed/Numed/blob/main/img/Figma.png" title="Figma" alt="Figma" width="32px" style="margin-left:30px;padding-top:5px"> 
