@@ -26,6 +26,7 @@
 <img align="left" src="https://github.com/Numed/Numed/blob/main/img/GraphQL.png" title="GraphQL" alt="GraphQL" width="32px" style="margin-left: 30px;"> 
 <img align="left" src="https://github.com/Numed/Numed/blob/main/img/Figma.png" title="Figma" alt="Figma" width="32px" style="margin-left:30px;padding-top:5px"> 
 <img align="left" src="https://github.com/Numed/Numed/blob/main/img/gulp.png" title="Gulp.js" alt="Gulp.js" width="14px" style="margin-left: 30px;"> 
+<img align="left" src="https://github.com/Numed/Numed/blob/main/img/framer-motion.png" title="Framer motion" alt="Framer motion" width="32px" style="margin-left: 30px;"> 
 </div>
 
 
