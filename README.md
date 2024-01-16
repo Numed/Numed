@@ -1,4 +1,4 @@
-# Hello there! 👋 
+# Hello there! 👋
 🔥 Welcome to my sphere of development, where you can see a lot of exciting projects
 
 ## About me
