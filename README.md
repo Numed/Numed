@@ -2,7 +2,7 @@
 🔥 Welcome to my sphere of development, where you can see a lot of exciting projects
 
 ## About me
-✍🏻 Constantly self-improving person
+✍🏻 Constantly self-improving person 
 
 🍃 Be patient with mistakes, they make you stronger
 
