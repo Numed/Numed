@@ -1,5 +1,5 @@
 # Hi, I'm Eugene 👋
-🔥 Welcome to my sphere of development, where you can see a lot of exciting projects
+🔥 Welcome to my sphere of development, where you can see a lot of exciting projects 
 
 ## About me
 ✍🏻 Constantly self-improving person 
