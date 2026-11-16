@@ -9,7 +9,7 @@ Senior Frontend Engineer (Full Stack) - React, Next.js, TypeScript, Node.js, Pos
 Most of my commercial work lives in private repositories. Pinned below are my own projects.
 
 Open to frontend and frontend-heavy full stack roles, remote within the EU.
-linkedin.com/in/nummxd | eugene.ruschinets@gmail.com
+https://linkedin.com/in/nummxd | eugene.ruschinets@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=numed&theme=dark&hide_border=false)<br/>
