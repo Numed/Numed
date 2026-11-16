@@ -1,14 +1,15 @@
-# Hi, I'm Eugene 👋
-🔥 Welcome to my sphere of development, where you can see a lot of exciting projects 
+## Eugene Rushinets
 
-## About me
-✍🏻 Constantly self-improving person 
+Senior Frontend Engineer (Full Stack) - React, Next.js, TypeScript, Node.js, PostgreSQL
 
-🍃 Be patient with mistakes, they make you stronger
+- Sole developer of a marketplace with 2.5M+ listings: search time cut from 25s to 6s
+- Shipped a RAG-based AI assistant to production
+- Built an agent workflow on Claude Code that made routine tickets 4x faster to ship
 
-✨ Inspired by developing sites & web applications
+Most of my commercial work lives in private repositories. Pinned below are my own projects.
 
-📫 Reach me out: eugene.ruschinets@gmail.com
+Open to frontend and frontend-heavy full stack roles, remote within the EU.
+linkedin.com/in/nummxd | eugene.ruschinets@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=numed&theme=dark&hide_border=false)<br/>
