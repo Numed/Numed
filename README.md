@@ -9,6 +9,7 @@ Senior Full Stack - React, Next.js, TypeScript, Node.js, PostgreSQL
 Most of my commercial work lives in private repositories. Pinned below are my own projects.
 
 Open to frontend and frontend-heavy full stack roles, remote within the EU.
+
 https://linkedin.com/in/nummxd | eugene.ruschinets@gmail.com
 
 # 📊 GitHub Stats:
