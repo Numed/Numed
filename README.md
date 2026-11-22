@@ -2,7 +2,7 @@
 
 Senior Full Stack - React, Next.js, TypeScript, Node.js, PostgreSQL
 
-- Sole developer of a marketplace with 2.5M+ listings: search time cut from 25s to 6s
+- Sole developer of a marketplace with 2.5M+ listings: search time cut to 4х
 - Shipped a RAG-based AI assistant to production
 - Built an agent workflow on Claude Code that made routine tickets 4x faster to ship
 
